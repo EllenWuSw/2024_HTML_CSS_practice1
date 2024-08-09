@@ -163,7 +163,7 @@ header ul li a{
 }
 
 .introdution{
-	background-image: url("img/background-img.png");
+	background-image: url("./img/background-img.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding-top: 160px;
